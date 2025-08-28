@@ -1,0 +1,46 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 0;
+}
+
+.Bloco1 {
+    margin: 15px 0px;
+    padding: 10px 15px;
+    background-color: rgb(118, 177, 209);
+    border: solid black;
+    border-radius: 10px;
+}
+.Bloco2 {
+    margin: 15px 0px;
+    padding: 10px 15px;
+    background-color: rgb(129, 118, 190);
+    border-radius: 10px;
+     border: solid rgb(165, 33, 252);
+}   
+.Bloco3{
+    margin: 15px 0px;
+    padding: 10px 15px;
+    background-color: rgb(194, 22, 159);
+    border-radius: 10px;
+    border: solid rgb(11, 24, 85);
+}   
+
+.Bloco4{
+    margin: 15px 0px;
+    padding: 10px 15px;
+    background-color: rgb(245, 245, 245);
+    border-radius: 10px;
+     border: solid rgb(194, 70, 132);
+}   
+
+.introducao{
+    margin: 15px 0px;
+    padding: 10px 15px;
+    background-color: rgb(247, 231, 231);
+    border-radius: 10px;
+    border: 3px solid rgb(136, 71, 71);
+    color: black;
+    text-align: start;
+}
