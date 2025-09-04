@@ -1,0 +1,269 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 0;
+}
+
+
+#Paragrafo{
+    margin: 15px 0px;
+    padding: 10px 15px;
+    color:blue;
+    border-radius: 10px;
+}
+
+#titulo-principal{
+    margin: 15px 0px;
+    padding: 10px 15px;
+    color:yellow;
+    border-radius: 10px;
+}
+
+#Subtítulo {
+    margin: 15px 0px;
+    padding: 10px 15px;
+    color:green;
+    border-radius: 10px;
+}
+
+
+#Opções{
+    margin: 15px 0px;
+    padding: 10px 15px;
+    color:red;
+    border-radius: 10px;
+}
+
+#Opções{
+    margin: 15px 0px;
+    padding: 10px 15px;
+    color:red;
+    border-radius: 10px;
+}
+
+#div1{
+    margin: 15px 0px;
+    padding: 10px 15px;
+    background-color: rgb(129, 118, 190);
+    border-radius: 10px;
+     border: solid rgb(165, 33, 252);
+}   
+
+
+#div2{
+    margin: 15px 0px;
+    padding: 10px 15px;
+    background-color: rgba(38, 0, 255, 0.984);
+    border-radius: 10px;
+     border: solid rgb(33, 59, 252);
+}   
+
+
+#agrupamento{
+    margin: 15px 0px;
+    padding: 10px 15px;
+    color:palevioletred;
+    border-radius: 10px;
+}
+
+#Paragrafo-centralizado{
+    margin: 15px 0px;
+    padding: 10px 15px;
+    color:blueviolet;
+    border-radius: 10px;
+}
+
+#google{
+    margin: 15px 0px;
+    padding: 10px 15px;
+    color:darkred;
+    border-radius: 10px;
+}
+
+#youtube{
+    margin: 15px 0px;
+    padding: 10px 15px;
+    color:fuchsia;
+    border-radius: 10px;
+}
+
+
+
+#paragrafos-negrito{
+    margin: 15px 0px;
+    padding: 10px 15px;
+    color:black;
+    border-radius: 10px;
+    font-weight: bold;
+}
+
+
+#img1 {
+  border: 0px solid #333;   
+  border-radius: 8px;          
+  display: block;           
+  width: 480px;             
+  max-width: 100%;          
+  height: auto;
+}
+
+
+#img2 {
+  border: 0px solid #333;   
+  border-radius: 8px;      
+  display: block;           
+  width: 300px;             
+  max-width: 100%;          
+  height: auto;
+}
+
+
+
+#paragrafo-azul{
+    margin: 15px 0px;
+    padding: 10px 15px;
+    color:blue;
+    border-radius: 10px;
+}
+
+#Paragrafosidifentes1{
+    margin: 15px 0px;
+    padding: 10px 15px;
+    color:red;
+    border-radius: 10px;
+}
+
+#Paragrafosidifentes2{
+    margin: 15px 0px;
+    padding: 10px 15px;
+    color:forestgreen;
+    border-radius: 10px;
+}
+
+#Mudarafonte{
+    margin: 15px 0px;
+    padding: 10px 15px;
+    color:forestgreen;
+    border-radius: 10px;
+    font-family: Arial;
+}
+
+#Parágrafo-negrito{
+    margin: 15px 0px;
+    padding: 10px 15px;
+    color:black;
+    border-radius: 10px;
+    font-weight: bold;
+}
+
+#Paragrafo-itálico{
+    margin: 15px 0px;
+    padding: 10px 15px;
+    color:black;
+    border-radius: 10px;
+    font-style: italic;
+}
+
+#Paragrafo-sublinhado{
+    margin: 15px 0px;
+    padding: 10px 15px;
+    color:black;
+    border-radius: 10px;
+     text-decoration: underline;
+}
+
+#Cor-titulo{
+    margin: 15px 0px;
+    padding: 10px 15px;
+    color:magenta;
+    border-radius: 10px;
+}
+
+
+
+#vermelho{
+    margin: 15px 0px;
+    padding: 10px 15px;
+    color:red;
+    border-radius: 10px;
+}
+
+#verde{
+    margin: 15px 0px;
+    padding: 10px 15px;
+    color:green;
+    border-radius: 10px;
+}
+
+
+#azul{
+    margin: 15px 0px;
+    padding: 10px 15px;
+    color:blue;
+    border-radius: 10px;
+}
+
+#destaque{
+    margin: 15px 0px;
+    padding: 10px 15px;
+    color:darkblue;
+    border-radius: 10px;
+}
+
+#caixa{
+    margin: 15px 0px;
+    padding: 10px 15px;
+    background-color: rgb(194, 22, 159);
+    border-radius: 10px;
+    border: solid rgb(11, 24, 85);
+}   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.Bloco2{
+    margin: 15px 0px;
+    padding: 10px 15px;
+    background-color: rgb(129, 118, 190);
+    border-radius: 10px;
+     border: solid rgb(165, 33, 252);
+}   
+.Bloco3{
+    margin: 15px 0px;
+    padding: 10px 15px;
+    background-color: rgb(194, 22, 159);
+    border-radius: 10px;
+    border: solid rgb(11, 24, 85);
+}   
+
+.Bloco4{
+    margin: 15px 0px;
+    padding: 10px 15px;
+    background-color: rgb(245, 245, 245);
+    border-radius: 10px;
+     border: solid rgb(194, 70, 132);
+}   
+
+.introducao{
+    margin: 15px 0px;
+    padding: 10px 15px;
+    background-color: rgb(247, 231, 231);
+    border-radius: 10px;
+    border: 3px solid rgb(136, 71, 71);
+    color: black;
+    text-align: start;
+}
