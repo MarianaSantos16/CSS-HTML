@@ -1,0 +1,55 @@
+.tabelaaulas{
+ border: solid black;
+}
+.tabelaaulas th{
+background-color:blue;
+color:white;
+border: solid black;
+}  
+.tabelaaulas td{
+border: solid black;
+}  
+
+
+
+.tabelatimes{
+ border: solid black;
+}
+.tabelatimes th{
+background-color:blue;
+color:white;
+border: solid black;
+}  
+.tabelatimes td{
+border: solid black;
+}  
+.tabelatimes td:nth-child(2){
+    background-color:aqua;
+}
+
+
+
+
+
+
+.produtos{
+ border: solid black;
+}
+.produtos th{
+background-color:yellow
+color:white;
+border: solid black;
+}  
+.produtos td{
+border: solid black;
+}  
+
+.produtos img{
+ width: 100px;
+  height: 100px;
+  object-fit: contain;
+}
+
+
+
+
