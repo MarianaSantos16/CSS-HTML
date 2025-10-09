@@ -1,0 +1,31 @@
+header, nav, main, article, footer {
+  padding: 10px;
+  margin: 5px;
+  border-radius: 5px;
+  background-color: blueviolet;
+}
+
+header{
+  background:rgb(187, 57, 219);
+  color: white;
+}
+
+nav{
+    background: white;
+    color: black;
+}
+
+
+main{
+  background:white(155, 71, 169);
+  color:black;
+}
+
+main{
+  background: rgb(144, 152, 225);
+}
+
+footer{
+    background: rgb(190, 86, 203);
+}
+
