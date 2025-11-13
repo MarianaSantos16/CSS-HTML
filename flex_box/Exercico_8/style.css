@@ -1,0 +1,22 @@
+
+.quadrado {
+  background-color: rgb(217, 0, 255);   
+  height: 200px;
+  width: 200px;
+  display: flex;
+  justify-content:center;
+  align-items:center;
+  color: white;
+  font-size: 70px;
+}
+ 
+
+.container{
+  height:100vh ;
+  display: flex; 
+  height: 100%;
+  justify-content:space-between;
+  align-items:flex-end;
+  gap: 10px;
+  flex-direction: row; 
+}

@@ -1,0 +1,27 @@
+
+
+.conteudo {
+  flex: 1;
+  padding: 40px;
+  text-align: center;
+flex-direction: column;
+}
+
+
+.footer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+  background: #222;
+  color: #fff;
+  padding: 15px 30px;
+
+}
+
+.secao {
+  flex: 1 1 150px;
+  text-align: center;
+  font-size: 14px;
+flex-direction: column;
+}
